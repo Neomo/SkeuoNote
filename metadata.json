@@ -1,0 +1,8 @@
+{
+  "name": "SkeuoNotes 拟物便签",
+  "description": "纯前端3D拟物桌面便签系统，提供沉浸式木纹质感拟物桌面、3D文件盒收纳、多维分类与本地持久化备份。",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
